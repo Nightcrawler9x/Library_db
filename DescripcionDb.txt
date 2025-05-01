@@ -1,0 +1,9 @@
+La base de datos presentada corresponde a la base de datos de una librería llamada 'Libreria la 37' 
+la cual solo cuenta con un punto físico ubicado en la ciudad de bucaramanga, en su base de datos maneja 
+los libros que tiene en catálogo, y los libros que tiene disponible temporalmente, organiza los libros 
+por categoría y por su autor, además lleva el registro de los pedidos y almacena la información de los 
+usuarios que realizan los mismos, entre estos, su dirección a la cual serán enviados los libros en caso 
+de que el pedido sea de forma remota, relacionamos los datos de cada prestatario con la llave única ISBN 
+de los libros para no perder la localización de los activos. Nuestro objetivo principal era hacer uso de 
+lo visto en clase con una aplicación lo más cercana posible a la realidad, lográndolo así con nuestro modelo 
+para esta base de datos.
